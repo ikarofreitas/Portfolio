@@ -3,12 +3,12 @@ import { Project } from '../types';
 
 const projects: Project[] = [
   {
-    title: 'UP - milkshake',
-    description: 'Plataforma de uma sorveteria e açaiteria local',
-    image: 'https://images.unsplash.com/photo-1557821552-17105176677c?w=800&auto=format&fit=crop&q=80',
-    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Stripe'],
-    githubUrl: 'https://github.com/ikaroalmeida/ecommerce',
-    liveUrl: 'https://ecommerce-demo.com'
+    title: 'EEEP Ambiental',
+    description: 'Página estudantil',
+    image: 'introduction-bg.jpg',
+    technologies: ['HTML', 'CSS', 'Javascript'],
+    githubUrl: 'https://github.com/epambiental/page',
+    liveUrl: 'https://epambiental.github.io/page/'
   },
   {
     title: 'Task Manager',
