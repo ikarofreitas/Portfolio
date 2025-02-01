@@ -48,7 +48,7 @@ export function Hero() {
           </div>
           <div className="flex-1">
             <img
-              src='./EOF_5474.jpg'
+              src='src/img/EOF_5474.jpg'
               alt="Íkaro Almeida"
               className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
             />

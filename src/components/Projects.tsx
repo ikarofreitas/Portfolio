@@ -5,7 +5,7 @@ const projects: Project[] = [
   {
     title: 'EEEP Ambiental',
     description: 'Página estudantil',
-    image: 'introduction-bg.jpg',
+    image: 'src/img/introduction-bg.jpg',
     technologies: ['HTML', 'CSS', 'Javascript'],
     githubUrl: 'https://github.com/epambiental/page',
     liveUrl: 'https://epambiental.github.io/page/'
