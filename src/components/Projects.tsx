@@ -11,11 +11,12 @@ const projects: Project[] = [
     liveUrl: 'https://epambiental.github.io/page/'
   },
   {
-    title: 'Task Manager',
-    description: 'Aplicativo de gerenciamento de tarefas com recursos de colaboração em tempo real.',
+    title: 'Finper',
+    description: 'Aplicativo de gerenciamento de transações e finanças em tempo real.',
     image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?w=800&auto=format&fit=crop&q=80',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
-    githubUrl: 'https://github.com/ikaroalmeida/taskmanager'
+    githubUrl: 'https://github.com/ikarofreitas/Finper',
+    liveUrl: 'https://finpers.netlify.app'
   },
   {
     title: 'Weather App',

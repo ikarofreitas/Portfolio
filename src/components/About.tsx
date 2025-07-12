@@ -43,7 +43,7 @@ export function About() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 dark:text-white">
-                    18 anos
+                    19 anos
                   </h3>
                   <p className="text-gray-600 dark:text-gray-300">Itapiúna, CE</p>
                 </div>
